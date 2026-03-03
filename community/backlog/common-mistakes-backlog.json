@@ -85,7 +85,7 @@
     "explanation": "ので is smoother/neutral for reason. (Pattern set 1)",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "もし雨が降ります、行きません。",
@@ -93,7 +93,7 @@
     "explanation": "Conditional needs たら/なら etc. (Pattern set 1)",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "これは私のです本。",
@@ -109,7 +109,7 @@
     "explanation": "Remove unnecessary particle after から. (Pattern set 1)",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本へ旅行を行きたい。",
@@ -133,14 +133,14 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 1)",
     "id": 17,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
     "correct": "駅まで歩いて十分かかる。",
     "explanation": "Use natural collocation and order. (Pattern set 1)",
     "id": 18,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
